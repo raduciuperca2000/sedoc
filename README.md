@@ -1,2 +1,2 @@
-# SEDOC -> Serviceimo Electronic DOCument System 
+# SE DOC | Serviceimo Electronic DOCument System 
 Serviceimo Documets System
